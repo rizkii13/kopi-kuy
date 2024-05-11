@@ -1,0 +1,148 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Java_Ijen.jpg",
+            "nama": "Java Ijen Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=Java+Ijen+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Espresso_Arabica.jpg",
+            "nama": "Espresso Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=Espresso+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Gayo_arabica.jpg",
+            "nama": "Gayo Arabica",
+            "size": "200 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=Gayo+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Matcha.jpg",
+            "nama": "Matcha Robusta",
+            "size": "150 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=Matcha+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Capuchino.jpg",
+            "nama": "Cappuchino Robusta",
+            "size": "150 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=Capuchino+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Kopi_Bubuk.jpg",
+            "nama": "Kopi Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=Kopi+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Machiato.jpg",
+            "nama": "Machiato Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=Machiato+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/product_Es_Cincau.jpg",
+            "nama": "Es Cincau",
+            "size": "100 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=Es+cincau+nonkopi&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Es_Kuwut.jpg",
+            "nama": "Es Kuwut",
+            "size": "100 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=Es+Kuwut+nonkopi&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Es_Kelapa_Muda.jpg",
+            "nama": "Es Kelapa Muda",
+            "size": "100 ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=Es+Kelapa+Muda+nonkopi&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Es_Buko_Pandan.jpg",
+            "nama": "Es Buko Pandan",
+            "size": "100 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=Es+Buko+Pandan+nonkopi&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Es_Teler.jpg",
+            "nama": "Es Teler",
+            "size": "100 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=Es+Teler+nonkopi&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Es_Teh.jpg",
+            "nama": "Es Teh",
+            "size": "100 ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=Es+Teh+nonkopi&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Es_Campur.jpg",
+            "nama": "Es Campur",
+            "size": "100 ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=Es+Campur+nonkopi&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_Es_Jeruk.jpg",
+            "nama": "Es Jeruk",
+            "size": "100 ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=Es+Jeruk+nonkopi&tbm=shop"
+        }
+    ]
+}
