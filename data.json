@@ -34,13 +34,6 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=espresso+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_gayo_arabica.jpg",
-            "nama": "Gayo Arabica",
-            "size": "200 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=gayo+arabica&tbm=shop"
         }
     ],
     "robusta": [
